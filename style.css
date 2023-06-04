@@ -1,0 +1,35 @@
+
+
+div{
+    background-color: red;
+    height: 300px;
+    width: fit-content;
+border: 1px solid black;
+box-shadow: inset;  
+flex-wrap: wrap;
+color: white;
+font-weight: bold;
+font-size: x-large;
+
+
+}
+form{
+  width: fit-content;
+    /* justify-content: center;
+    align-items: center;
+    height: 10vh; */
+}
+input{
+    padding: 5px;
+    padding: 10px;
+   margin-left: 20px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  
+}
+.submit:hover{
+color: white;
+background-color: blue;
+
+}
